@@ -104,7 +104,7 @@ PINB – Port B Input Register
 f50605ed-3ebf-4cb3-9b49-5bffc99e5bbf
 
 👩‍💻 Project Information
-Platform: Arduino Uno / Wokwi Simulator   
+Platform: Wokwi Simulator   
 https://wokwi.com/projects/480009282197612545
 
 Project Type: Embedded Systems / AVR Register Manipulation
